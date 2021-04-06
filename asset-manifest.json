@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-themes-deploy/static/css/main.3b978f2f.chunk.css",
+    "main.js": "/react-themes-deploy/static/js/main.eba30eba.chunk.js",
+    "main.js.map": "/react-themes-deploy/static/js/main.eba30eba.chunk.js.map",
+    "runtime-main.js": "/react-themes-deploy/static/js/runtime-main.a97efea3.js",
+    "runtime-main.js.map": "/react-themes-deploy/static/js/runtime-main.a97efea3.js.map",
+    "static/js/2.78e21b17.chunk.js": "/react-themes-deploy/static/js/2.78e21b17.chunk.js",
+    "static/js/2.78e21b17.chunk.js.map": "/react-themes-deploy/static/js/2.78e21b17.chunk.js.map",
+    "index.html": "/react-themes-deploy/index.html",
+    "static/css/main.3b978f2f.chunk.css.map": "/react-themes-deploy/static/css/main.3b978f2f.chunk.css.map",
+    "static/js/2.78e21b17.chunk.js.LICENSE.txt": "/react-themes-deploy/static/js/2.78e21b17.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a97efea3.js",
+    "static/js/2.78e21b17.chunk.js",
+    "static/css/main.3b978f2f.chunk.css",
+    "static/js/main.eba30eba.chunk.js"
+  ]
+}
